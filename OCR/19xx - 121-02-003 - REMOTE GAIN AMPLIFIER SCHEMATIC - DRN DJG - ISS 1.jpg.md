@@ -34,7 +34,7 @@ Wiki page: [M121](../../../../PAGES/M121.md)
 - **Title block:** (356, 22)–(432, 32) mm: WBS WARO-DCCK SYSTEMS · DJG
 - **Wiring (first pass):** 83 connected wire groups from 672 runs; labelled ends: 228 mm → R3S, 823, Sika, 441cis; 154 mm → CRZIFDA444, 436, Ro<, SE5; 154 mm → CRIJ, IN4750, Rio7, 8k2; 117 mm → 22/35], 552, 412A122/s5; 113 mm → 827, 4401, 22/351, SER
 
-Every curve, box, word and wire group: [19xx - 121-02-003 - REMOTE GAIN AMPLIFIER SCHEMATIC - DRN DJG - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20121-02-003%20-%20REMOTE%20GAIN%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DJG%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 121-02-003 - REMOTE GAIN AMPLIFIER SCHEMATIC - DRN DJG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 121-02-003 - REMOTE GAIN AMPLIFIER SCHEMATIC - DRN DJG - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20121-02-003%20-%20REMOTE%20GAIN%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DJG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 121-02-003 - REMOTE GAIN AMPLIFIER SCHEMATIC - DRN DJG - ISS 1 (traced).dxf`).
 
 ## Full text
 
