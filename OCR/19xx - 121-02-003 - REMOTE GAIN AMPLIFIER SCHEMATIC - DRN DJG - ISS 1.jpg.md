@@ -1,5 +1,5 @@
 # 19xx - 121-02-003 - REMOTE GAIN AMPLIFIER SCHEMATIC - DRN DJG - ISS 1.jpg
-Wiki page: [M121](../../../../PAGES/M121.md)
+Wiki page: [M121](../)
 
 
 - **Year:** unknown (title block (read by eye))

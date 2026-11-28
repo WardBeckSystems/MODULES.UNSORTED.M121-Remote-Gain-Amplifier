@@ -1,6 +1,6 @@
 # M121 Remote Gain Amplifier · Amplifiers
 
-Ward-Beck Systems M121, 1977|10. Wiki page: [M121 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M121.html)
+Ward-Beck Systems M121, 1977|10. Wiki page: [M121 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M121-Remote-Gain-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
